@@ -4,7 +4,7 @@ DISCIPLINA - Inteligência Artificial (I.A.)
 ## PROJETO -  Análise ou Avaliação de Feedback
 
 Nosso Projeto de I.A. consistem em uma Análise ou Avaliação de Feedback, 
-desenvolvido na linguagem em Phyton. Foi utilizado o algoritmo de classificação
+desenvolvido na linguagem em Python. Foi utilizado o algoritmo de classificação
 Naive Bayes Classifier e importado um conjunto de bibliotecas NLTK que significa
 Natural Language Toolkit que através dessa é possível realizar tarefas de 
 NLP – Processamento de linguagem natural. Especificamente no nosso Projeto será 
